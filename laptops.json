@@ -59,5 +59,82 @@
   "marca": "ASUS",
   "descripcion": "Computador Portátil Asus 14 pulgadas Ci5 8GB 256GB SSD X415JA-EK508T",
   "imagen": "./img/laptops/producto_9.jpg"
+  },
+  {
+  "nombre":"Computador Portátil ACER",
+  "precio": "$ 3.383.280",
+  "marca": "ACER",
+  "descripcion": "Computador Portátil Acer 15.6 Pulgadas Gaming R5 8GB 1TB AN515-44-R287",
+  "imagen": "./img/laptops/producto_10.jpg"
+  },
+  {
+  "nombre":"Computador Portátil APPLE",
+  "precio": "$ 4.598.999",
+  "marca": "APPLE",
+  "descripcion": "Portatil Macbook Air Con Chip Apple M1 (13 Pulgadas, 8 Gb De Ram, 256 Gb De Almacenamiento Ssd Oro 2020",
+  "imagen": "./img/laptops/producto_11.jpg"
+  },
+  {
+  "nombre":"Computador Portátil ASUS",
+  "precio": "$ 1.052.388",
+  "marca": "ASUS",
+  "descripcion": "Portatil Asus X543ma Dm1336ra 15,6 Fhd Celeron 4Gb Ssd 128Gb Win 10 Pro",
+  "imagen": "./img/laptops/producto_12.jpg"
+  },
+  {
+  "nombre":"Computador Macbook APPLE",
+  "precio": "$ 5.899.000",
+  "marca": "APPLE",
+  "descripcion": "Macbook Air Chip M1 Con Cpu 8C Y Gpu 8C 512Gb Gris Espacial",
+  "imagen": "./img/laptops/producto_13.jpg"
+  },
+  {
+  "nombre":"Computador Portátil ACER",
+  "precio": "$ 1.793.220",
+  "marca": "ACER",
+  "descripcion": "Computador Portátil Acer 15.6 Pulgadas Ci3 8GB 256GB SSD A515-54-34QG",
+  "imagen": "./img/laptops/producto_14.jpg"
+  },
+  {
+  "nombre":"Computador Portátil HP",
+  "precio": "$ 3.927.106",
+  "marca": "HP",
+  "descripcion": "Computador Portátil HP Core i5-10300H 15.6 Pulgadas 8 GB 512 GB 15-dk1043la",
+  "imagen": "./img/laptops/producto_15.jpg"
+  },
+  {
+  "nombre":"Computador Portátil LENOVO",
+  "precio": "$ 3.645.650",
+  "marca": "LENOVO",
+  "descripcion": "Comp Gaming R5 8GB 512GB SSD LENOVO IdeaPad Ga",
+  "imagen": "./img/laptops/producto_16.jpg"
+  },
+  {
+  "nombre":"Computador Portátil ACER",
+  "precio": "$ 1.995.700",
+  "marca": "ACER",
+  "descripcion": "Computador Portátil Acer 14 Pulgadas Core i5 4GB 256GB SSD A514-53-570S",
+  "imagen": "./img/laptops/producto_17.jpg"
+  },
+  {
+  "nombre":"Computador Portátil HUAWEI",
+  "precio": "$ 2.999.900",
+  "marca": "HUAWEI",
+  "descripcion": "Computador Portátil HUAWEI Intel Core i5 10th 14 Pulgadas 8 GB 512 GB SSD NobelB-WAH9E",
+  "imagen": "./img/laptops/producto_18.jpg"
+  },
+  {
+  "nombre":"Computador Portátil ASUS",
+  "precio": "$ 2.589.000",
+  "marca": "ASUS",
+  "descripcion": "Portatil Asus K513ea Bq355 Core I5 Ram8gb 512Gb Ssd Endless",
+  "imagen": "./img/laptops/producto_19.jpg"
+  },
+  {
+  "nombre":"Computador Portátil HP",
+  "precio": "$ 942.210",
+  "marca": "HP",
+  "descripcion": "Portatil Hp 245 G7 Amd A4 9125 1Tb 4Gb Win10prueba",
+  "imagen": "./img/laptops/producto_20.jpg"
   }
 ]
