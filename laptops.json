@@ -1,0 +1,63 @@
+[{
+  "nombre":"Computador Portátil LENOVO",
+  "precio": "$ 1.656.960",
+  "marca": "LENOVO",
+  "descripcion": "Core i3-10110U_2.1G_2C_MB 14 Pulgadas 8 GB 512 GB SSD IP 3 14IML05",
+  "imagen": "./img/laptops/producto_1.jpg"
+  },
+  {
+  "nombre":"Computador Portátil LENOVO",
+  "precio": "$ 4.883.120",
+  "marca": "LENOVO",
+  "descripcion": "Computador Portátil LENOVO Core i3-10110U_2.1G_2C_MB 14 Pulgadas 8 GB 512 GB SSD IP 3 14IML05",
+  "imagen": "./img/laptops/producto_2.jpg"
+  },
+  {
+  "nombre":"Computador Portátil ASUS",
+  "precio": "$ 3.599.280",
+  "marca": "ASUS",
+  "descripcion": "Computador Portátil ASUS TUF Gaming F15 15.6 pulgadas Ci5 8GB 512GB SSD FX506LH-HN002T",
+  "imagen": "./img/laptops/producto_3.jpg"
+  },
+  {
+  "nombre":"All in One LENOVO",
+  "precio": "$ 1.681.420",
+  "marca": "LENOVO",
+  "descripcion": "All In One LENOVO A9-9425_3.1G_2C_MB 21.5 Pulgadas 8 GB 1 TB HDD + 128 GB SSD A340-22AST",
+  "imagen": "./img/laptops/producto_4.jpg"
+  },
+  {
+  "nombre":"Computador Portátil LENOVO",
+  "precio": "$ 3.279.180",
+  "marca": "LENOVO",
+  "descripcion": "Computador Portátil LENOVO RYZEN_7_5700U_1.8G_8C_MB 14 Pulgadas 16 GB 512 GB SSD IP 5-14ALC05",
+  "imagen": "./img/laptops/producto_5.jpg"
+  },
+  {
+  "nombre":"Computador Portátil LENOVO",
+  "precio": "$ 1.386.270",
+  "marca": "LENOVO",
+  "descripcion": "Computador Portátil Lenovo 14 pulgadas Athlon Silver 8GB 256GB SSD",
+  "imagen": "./img/laptops/producto_6.jpg"
+  },
+  {
+  "nombre":"Computador Portátil HP",
+  "precio": "$ 1.444.910",
+  "marca": "HP",
+  "descripcion": "Computador Portátil HP Pentium Gold 8GB 256GB SSD 14-cf2081la",
+  "imagen": "./img/laptops/producto_7.jpg"
+  },{
+  "nombre":"Computador Portátil HP",
+  "precio": "$ 1.707.390",
+  "marca": "HP",
+  "descripcion": "Computador Portátil HP 14 Pulgadas Core i3 8GB 256GB 16GB Optane 14CF2059LA",
+  "imagen": "./img/laptops/producto_8.jpg"
+  },
+  {
+  "nombre":"Computador Portátil ASUS",
+  "precio": "$ 2.289.000",
+  "marca": "ASUS",
+  "descripcion": "Computador Portátil Asus 14 pulgadas Ci5 8GB 256GB SSD X415JA-EK508T",
+  "imagen": "./img/laptops/producto_9.jpg"
+  }
+]
